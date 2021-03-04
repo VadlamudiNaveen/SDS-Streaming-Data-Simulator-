@@ -24,6 +24,7 @@ def generateData(value):
                          [
                             'idly', 
                             'wada',
+                            'dosa',
                             'poori',
                             'biryani',
                             'kheema biryani', 
