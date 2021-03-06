@@ -10,10 +10,12 @@ if you make a connection to a Kinesis Data Stream it becomes Streaming Source.
 
  Single Console Output:
  
+ 
  ![Screenshot](process.png)
  
  
  Multiple Console Output:
+ 
  
  ![Screenshot](multiple.png)
 
