@@ -1,5 +1,3 @@
-# Credits: This Code is Inspired from @Fernando Medina Corey 
-# and has been Modified completely. 
 import json
 import random
 import time
