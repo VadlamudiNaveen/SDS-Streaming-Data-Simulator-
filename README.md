@@ -1,4 +1,4 @@
-# Streaming-Data-Analyser
+# Streaming-Data-Simulator
 This repository code file aims to generate random data, which can be assumed of type streaming in the context of big data. 
 if you make a connection to a Kinesis Data Stream it becomes Streaming Source.
 
